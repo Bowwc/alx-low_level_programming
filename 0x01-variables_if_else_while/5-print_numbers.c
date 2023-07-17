@@ -2,7 +2,7 @@
 /**
  * main - prints all digits from 0 to 9
  * Description - code that prints all digits from 0 to 9
- * Return - 0 (Success)
+ * Return: 0 (Success)
  */
 int main(void)
 {
