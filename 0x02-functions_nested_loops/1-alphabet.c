@@ -4,9 +4,9 @@
 * main - a function that prints the alphabet
 * Return: void
 */
-int main(void)
+
+void print_alphabet(void)
 {
-void print_alphabet(void);
 
 	char c;
 
@@ -15,5 +15,5 @@ void print_alphabet(void);
 	_putchar(c);
 	}
 	_putchar('\n');
-return (void);
+
 }
